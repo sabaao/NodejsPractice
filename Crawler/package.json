@@ -1,6 +1,6 @@
 {
-  "name": "crawler",
-  "version": "1.0.0",
+  "name": "charles_crawler",
+  "version": "1.0.1",
   "description": "This is a project of Crawler url pac",
   "main": "Crawler.js",
   "scripts": {
